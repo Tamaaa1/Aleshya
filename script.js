@@ -466,7 +466,7 @@ function setupProposalPage() {
                 <div style="margin-bottom: 16px; font-weight: 500;">
                     Yeayy finally!! Rasanya lega banget hehe. Having you as mine is literally the best plot twist in my life. You're truly the best thing that's ever happened to me.
                 </div>
-                <a href="https://wa.me/6285820659198?text=Iyaaaa%20aku%20mau%20kok!!" target="_blank" class="btn btn-primary" style="display:inline-flex; align-items:center; gap:8px; font-size:15px; padding:12px 24px; border-radius:30px; text-decoration:none;">
+                <a href="https://wa.me/6285820659198?text=Halooo" target="_blank" class="btn btn-primary" style="display:inline-flex; align-items:center; gap:8px; font-size:15px; padding:12px 24px; border-radius:30px; text-decoration:none;">
                     kalau udh beneran yakin tekan tombol ini yaa
                 </a>
             `;
