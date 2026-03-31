@@ -443,6 +443,11 @@ function handleCreatorOverlay() {
     btn.addEventListener('click', () => {
         localStorage.setItem('creatorSeen', 'true');
         dismiss();
+        
+        const bgm = document.getElementById('global-bgm');
+        if (bgm) {
+            bgm.play().catch(e => console.log('BGM Play prevented:', e));
+        }
     });
 }
 
